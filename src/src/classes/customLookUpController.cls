@@ -129,6 +129,7 @@ public class customLookUpController {
     }
 
     public class enrollmentWrapperTestGitHub{
+        String test = '';
 
     }
 }
